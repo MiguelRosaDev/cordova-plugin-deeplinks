@@ -1,0 +1,5 @@
+<universal-links>
+    <host name="nostestapp.deeplink" scheme="https">
+        <path url="/OSTESTAPP/Deeplinks" />
+    </host>
+</universal-links>
