@@ -1,5 +1,5 @@
 <universal-links>
     <host name="outsystemsdevdmz.corporativo.pt" scheme="https">
-        <path url="/OSTESTAPP/Deeplinks" />
+         <path url="*" event="launchedAppFromLink" />
     </host>
 </universal-links>
